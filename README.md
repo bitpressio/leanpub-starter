@@ -23,3 +23,7 @@ Here's a brief overview of each file, and you can remove/add files to organize y
 * conclusion.md - An example file witin the backmatter of the book
 
 The `frontmatter.txt`, `mainmatter.txt`, and `backmatter.txt` files only contain their respective "instruction", because I've found that it's easy to see the division from the Book.txt file instead of hunting for the part in one of the many other files.
+
+## Sample.txt
+
+The `Sample.txt` file contains the material that will be available if the user downloads a sample of the book or reads the sample online. You can include any part of the book that you want to be made freely available in the sample.
