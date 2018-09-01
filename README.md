@@ -1,6 +1,6 @@
 # leanpub-starter
 
-Starter repo for Leanpub book manuscripts.
+Starter repo for Leanpub book manuscripts. This starter repo is a quick starter template so you can dive right in and start writing your Leanpub book. I was inspired to write about and create my own workflow, and you can read [more about my writing process](https://bitpress.io/my-process-writing-docker-for-php-developers/).
 
 ## Overview
 
