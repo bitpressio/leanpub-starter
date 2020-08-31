@@ -8,7 +8,7 @@ The `manuscript/Book.txt` file is the entrypoint to generating the book files (P
 
 Here's a brief overview of each file, and you can remove/add files to organize your book in the way you prefer:
 
-* frontmatter.txt - Starts the [{frontmatter}](leanpub-auto-front-matter-main-matter-and-back-matter) portion of the book
+* frontmatter.txt - Starts the [{frontmatter}](https://leanpub.com/lfm/read#leanpub-auto-front-matter-main-matter-and-back-matter) portion of the book
 * introduction.md - An example file within the frontmatter portion of the book
 * mainmatter.txt - Divides the frontmatter from the `{mainmatter}` part of the book
 * chapter01.md - The main matter sections of the book
